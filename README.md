@@ -5,7 +5,7 @@
 Proyek ini adalah bagian dari mata kuliah Pemrograman Mobile untuk mengajarkan pengembangan aplikasi mobile dengan **Flutter**. Fokus utama mencakup **navigasi**, **state management**, dan **akses data**.
 
 ### Tautan Prototipe Figma
-Untuk melihat prototipe aplikasi HireMe, silakan kunjungi: [Figma Prototype](#) <!-- Tambahkan tautan prototipe Figma yang sesuai -->
+Untuk melihat prototipe aplikasi HireMe, silakan kunjungi: [Figma Prototype](https://www.figma.com/design/bCdjLRwIq7X6V5IIX8K3rW/HireMe-App?node-id=0-1&t=FbXNFhbINDSmzJEv-1) <!-- Tambahkan tautan prototipe Figma yang sesuai -->
 
 ---
 
