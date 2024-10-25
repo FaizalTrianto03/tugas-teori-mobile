@@ -1,4 +1,4 @@
-# HireMe - Aplikasi Pencarian Pekerjaan
+# HireMe - Aplikasi Pencarian Pekerjaan.
 
 ## Deskripsi Proyek
 
